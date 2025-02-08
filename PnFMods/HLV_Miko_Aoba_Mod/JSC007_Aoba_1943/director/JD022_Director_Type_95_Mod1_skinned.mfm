@@ -29,9 +29,9 @@
 		<Float>	0.4000	</Float>
 	</property>
 	<property>	g_detailScaleU
-		<Float>	1.0000	</Float>
+		<Float>	2.0000	</Float>
 	</property>
 	<property>	g_detailScaleV
-		<Float>	1.0000	</Float>
+		<Float>	2.0000	</Float>
 	</property>
 </JD022_Director_Type_95_Mod1_skinned.mfm>

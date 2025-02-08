@@ -1,7 +1,0 @@
-<JRS067_Radar_Type21_Stand_1_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Miko_Aoba_Mod/JSC007_Aoba_1943/radar/lods/JRS067_Radar_Type21_Stand_1_lod3	</parent>
-	<extent>	25.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Miko_Aoba_Mod/JSC007_Aoba_1943/radar/lods/JRS067_Radar_Type21_Stand_1_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JRS067_Radar_Type21_Stand_1_lod2.model>
